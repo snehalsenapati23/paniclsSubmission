@@ -1,4 +1,15 @@
 # Getting Started with Create React App
+Live Link:- https://pinacle.vercel.app/
+1st page: 
+![React App - Google Chrome 12-05-2023 09_27_51](https://github.com/snehalsenapati23/paniclsSubmission/assets/78613699/da947b8b-51c6-42ee-8ad4-16f7fc3adee0)
+
+2nd Page:
+![React App - Google Chrome 12-05-2023 09_28_02](https://github.com/snehalsenapati23/paniclsSubmission/assets/78613699/b6466f33-803d-488f-bdcd-a59aa555b6b4)
+
+3rd page:
+![React App - Google Chrome 12-05-2023 09_28_16](https://github.com/snehalsenapati23/paniclsSubmission/assets/78613699/d478b97f-b308-4ed2-922f-6b5eadb76581)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
